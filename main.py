@@ -1,3 +1,4 @@
+#технические шололадки technic moments
 import time
 import os
 import pickle
@@ -24,8 +25,9 @@ answer2 = 0
 answer3 = 6
 adminmode = 0
 antivirus = 1
+#language =  input('select language ')
 
-
+#работа со всем work with everything
 print('консоль запущена')
 time.sleep(2)
 print(f'система windows 1 приветствует вас {name}')
